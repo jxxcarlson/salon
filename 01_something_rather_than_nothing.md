@@ -42,7 +42,7 @@ The experiment is one that we too can perform in our kitchen. Take two objects, 
 
 The simplicity of this experiment leads one to ask *Why did Aristotle get it wrong?*. He was in many ways the first scientist and was indisputably a great thinker and philosopher.  My own explanation was that experimentation was not part of the Greek mind-set or culture (or anyone else at the time either).  There are other examples of this kind of cultural blindness. Recall Hero's "steam engine," or better yet, the Antikithera mechanism, a mechanical computer for calculating the positions of the sun, moon, and planets.  While the Greeks were capable of engineering genius, such genius never transformed society as it did during the Industrial Revolution.  Perhaps because, with an ample supply of slave labor, transformation had no immediate economic benefit.
 
-![Hero's Steam Engine](https://upload.wikimedia.org/wikipedia/commons/b/b8/Aeolipile_illustration.png width="200")
+![Hero's Steam Engine](https://upload.wikimedia.org/wikipedia/commons/b/b8/Aeolipile_illustration.png#thumbmail)
 
 Clear though it was, we should look at our experiment again.  This time we drop the almond and a small scrap of paper — one about the sizd
 
